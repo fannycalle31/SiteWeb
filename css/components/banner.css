@@ -1,0 +1,20 @@
+.banner{
+	background-image:url(../../images/banner-min.jpg);
+	color:white;
+	padding: 150px 0px;
+	background-size:cover; 
+	background-position:center center; 
+	background-repeat:no-repeat;
+} 
+
+.banner h1{
+	font-size: 50px;
+	color: rgba(255,255,255,0.9)
+}
+
+.banner h2{
+	font-weight: 300;
+	font-size:30px;
+	margin-bottom: 60px;
+		color: rgba(255,255,255,0.8)
+}
